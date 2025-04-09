@@ -490,6 +490,15 @@
 				</Properties>
 				<Errors />
 			</Section>
+			<Section Name="Nominal IO VeriStand Client Engine Linux64.llb" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666" Identifier="7c06e47b-f2d9-4e04-a9e5-cb17efe6bb23">
+				<Description />
+				<Properties>
+					<Property Name="Path">
+						<String>C:\Users\Public\Documents\National Instruments\NI VeriStand 2024\Custom Devices\Nominal IO VeriStand Client\Linux_x64\Nominal IO VeriStand Client Engine Linux64.llb</String>
+					</Property>
+				</Properties>
+				<Errors />
+			</Section>
 		</Section>
 	</Root>
 </Document>

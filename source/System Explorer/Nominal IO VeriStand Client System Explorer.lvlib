@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Glyphs" Type="Folder">
+		<Item Name="nominal.png" Type="Document" URL="../Glyphs/nominal.png"/>
+	</Item>
 	<Item Name="System Explorer" Type="Folder">
 		<Item Name="Dynamically Called" Type="Folder">
 			<Item Name="Extra Pages" Type="Folder">

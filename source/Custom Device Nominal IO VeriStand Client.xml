@@ -46,7 +46,7 @@
       <GUID>26b684f0-86a6-428f-ba34-3043f7fbed07</GUID>
       <Glyph>
         <Type>To Application Data Dir</Type>
-        <Path>System Explorer\Glyphs\default fpga category.png</Path>
+        <Path>System Explorer\Glyphs\nominal.png</Path>
       </Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
