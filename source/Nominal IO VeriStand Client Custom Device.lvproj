@@ -22,6 +22,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Glyphs" Type="Folder" URL="../Glyphs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Help" Type="Folder" URL="../Help">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
@@ -37,6 +40,7 @@
 		<Item Name="Nominal IO VeriStand Client Scripting.lvlib" Type="Library" URL="../Scripting/Nominal IO VeriStand Client Scripting.lvlib"/>
 		<Item Name="Nominal IO VeriStand Client Shared.lvlib" Type="Library" URL="../Shared/Nominal IO VeriStand Client Shared.lvlib"/>
 		<Item Name="Nominal IO VeriStand Client System Explorer.lvlib" Type="Library" URL="../System Explorer/Nominal IO VeriStand Client System Explorer.lvlib"/>
+		<Item Name="nominal.png" Type="Document" URL="../System Explorer/Glyphs/nominal.png"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Advanced System Definition.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI VeriStand Advanced SysDef API/SysDef API/Advanced System Definition.lvlib"/>
@@ -135,7 +139,13 @@
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Nominal IO VeriStand Client System Explorer.lvlib/System Explorer</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Container</Property>
-				<Property Name="SourceCount" Type="Int">3</Property>
+				<Property Name="Source[3].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[3].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Glyphs</Property>
+				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[3].type" Type="Str">Container</Property>
+				<Property Name="SourceCount" Type="Int">4</Property>
 			</Item>
 			<Item Name="Configuration Release" Type="Source Distribution">
 				<Property Name="Bld_buildCacheID" Type="Str">{F7E936A1-C50B-4217-AC2B-A4DA3629CD4B}</Property>
