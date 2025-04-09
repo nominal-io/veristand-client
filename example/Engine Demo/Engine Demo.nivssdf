@@ -10,7 +10,7 @@
 				<String>Engine Demo</String>
 			</Property>
 			<Property Name="Version">
-				<String>1.0.0.36</String>
+				<String>1.0.0.37</String>
 			</Property>
 			<Property Name="Creator">
 				<String />
@@ -229,8 +229,8 @@
 								<StringArray>
 									<Elem>ActualRPM</Elem>
 									<Elem>DesiredRPM</Elem>
-									<Elem>EnginePower</Elem>
 									<Elem>EngineTemp</Elem>
+									<Elem>EnginePower</Elem>
 								</StringArray>
 							</Property>
 							<Property Name="user.CD.Dataset Connection Name">
@@ -243,10 +243,10 @@
 								<DependentNode Path="Aliases/DesiredRPM" />
 							</Property>
 							<Property Name="user.CD.Streaming Channels  3">
-								<DependentNode Path="Aliases/EnginePower" />
+								<DependentNode Path="Aliases/EngineTemp" />
 							</Property>
 							<Property Name="user.CD.Streaming Channels  4">
-								<DependentNode Path="Aliases/EngineTemp" />
+								<DependentNode Path="Aliases/EnginePower" />
 							</Property>
 						</Properties>
 						<Errors />
