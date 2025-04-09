@@ -34,6 +34,7 @@
 		</Item>
 		<Item Name="Custom Device Nominal IO VeriStand Client.xml" Type="Document" URL="../Custom Device Nominal IO VeriStand Client.xml"/>
 		<Item Name="Nominal IO VeriStand Client Engine.lvlib" Type="Library" URL="../Engine/Nominal IO VeriStand Client Engine.lvlib"/>
+		<Item Name="Nominal IO VeriStand Client Scripting.lvlib" Type="Library" URL="../Scripting/Nominal IO VeriStand Client Scripting.lvlib"/>
 		<Item Name="Nominal IO VeriStand Client Shared.lvlib" Type="Library" URL="../Shared/Nominal IO VeriStand Client Shared.lvlib"/>
 		<Item Name="Nominal IO VeriStand Client System Explorer.lvlib" Type="Library" URL="../System Explorer/Nominal IO VeriStand Client System Explorer.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -67,6 +68,7 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="LVRowAndColumnUnsignedTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnUnsignedTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="NI_WebDAV.lvlib" Type="Library" URL="/&lt;vilib&gt;/WebDAVClient/NI_WebDAV.lvlib"/>
@@ -99,6 +101,9 @@
 			<Item Name="NationalInstruments.VeriStand.SystemStorage" Type="Document" URL="NationalInstruments.VeriStand.SystemStorage">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="NationalInstruments.VeriStand.SystemStorageUI" Type="Document" URL="NationalInstruments.VeriStand.SystemStorageUI">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Configuration Debug" Type="Source Distribution">
@@ -109,7 +114,6 @@
 				<Property Name="Bld_localDestDir" Type="Path">../Built/Nominal IO VeriStand Client</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/Copy .LLB to NI VeriStand dir.vi</Property>
-				<Property Name="Bld_preActionVIID" Type="Ref">/My Computer/Utility/%CHMPreBuild%</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{ABE103FD-8E06-4287-92FA-28F9CAA41336}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
@@ -120,7 +124,7 @@
 				<Property Name="Destination[2].path" Type="Path">../Built/Nominal IO VeriStand Client/Windows/Nominal IO VeriStand Client Configuration.llb</Property>
 				<Property Name="Destination[2].type" Type="Str">LLB</Property>
 				<Property Name="DestinationCount" Type="Int">3</Property>
-				<Property Name="Source[0].itemID" Type="Str">{08BECEEA-C2C4-4262-8351-7D8564FF9CB1}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C5BF26BE-8DC9-4F50-A064-FB694DE9B8CB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Custom Device Nominal IO VeriStand Client.xml</Property>

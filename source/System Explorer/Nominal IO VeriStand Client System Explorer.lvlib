@@ -23,7 +23,9 @@
 		</Item>
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Load Help File.vi" Type="VI" URL="../Load Help File.vi"/>
+			<Item Name="Update Selected Channels.vi" Type="VI" URL="../Update Selected Channels.vi"/>
 		</Item>
 		<Item Name="Types" Type="Folder"/>
 	</Item>
+	<Item Name="ui.select_channels.vi" Type="VI" URL="../ui.select_channels.vi"/>
 </Library>

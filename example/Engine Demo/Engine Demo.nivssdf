@@ -10,7 +10,7 @@
 				<String>Engine Demo</String>
 			</Property>
 			<Property Name="Version">
-				<String>1.0.0.33</String>
+				<String>1.0.0.36</String>
 			</Property>
 			<Property Name="Creator">
 				<String />
@@ -195,7 +195,7 @@
 					<Description />
 					<Properties />
 					<Errors />
-					<Section Name="Nominal IO VeriStand Client" TypeGUID="26b684f0-86a6-428f-ba34-3043f7fbed07" Identifier="502e5f8d-e276-4eec-8e3b-a166931f4096">
+					<Section Name="Nominal IO Streaming" TypeGUID="26b684f0-86a6-428f-ba34-3043f7fbed07" Identifier="502e5f8d-e276-4eec-8e3b-a166931f4096">
 						<Description />
 						<Properties>
 							<Property Name="CD Status">
@@ -224,6 +224,29 @@
 							</Property>
 							<Property Name="Version">
 								<String>1.0.0</String>
+							</Property>
+							<Property Name="user.CD.Channels to Stream">
+								<StringArray>
+									<Elem>ActualRPM</Elem>
+									<Elem>DesiredRPM</Elem>
+									<Elem>EnginePower</Elem>
+									<Elem>EngineTemp</Elem>
+								</StringArray>
+							</Property>
+							<Property Name="user.CD.Dataset Connection Name">
+								<BinaryString>aGVsbG93b3JsZA==</BinaryString>
+							</Property>
+							<Property Name="user.CD.Streaming Channels  1">
+								<DependentNode Path="Aliases/ActualRPM" />
+							</Property>
+							<Property Name="user.CD.Streaming Channels  2">
+								<DependentNode Path="Aliases/DesiredRPM" />
+							</Property>
+							<Property Name="user.CD.Streaming Channels  3">
+								<DependentNode Path="Aliases/EnginePower" />
+							</Property>
+							<Property Name="user.CD.Streaming Channels  4">
+								<DependentNode Path="Aliases/EngineTemp" />
 							</Property>
 						</Properties>
 						<Errors />
