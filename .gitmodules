@@ -1,3 +1,0 @@
-[submodule "submodules/labview-client"]
-	path = submodules/labview-client
-	url = https://github.com/nominal-io/labview-client
