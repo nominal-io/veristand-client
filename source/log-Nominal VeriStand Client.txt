@@ -1,0 +1,35 @@
+[8:28:15.21 PM] Solution log file opened: C:\code\veristand-client\source\log-Nominal VeriStand Client.txt
+[8:28:15.21 PM] System summary
+   Date               04/11/2025 20:28:15
+   NIPB version       25.3.0.1879
+   NIPB bitness       64-bit
+   NIPM version       25.3.0.49254
+   Operating System   Windows 10 64-bit
+[8:28:51.55 PM] Added input file: C:\code\veristand-client\Built\Nominal Client\Windows\nominal-labview-client.lvlibp
+[8:28:51.75 PM] ======= Discover: Started =======
+[8:28:52.10 PM] ======= Discover: Summary =======
+[8:28:52.10 PM] ======= Discover: Complete (elapsed time 00:00.34) =======
+[8:29:15.22 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs
+[8:29:21.76 PM] ======= Build Solution: Started =======
+[8:29:21.79 PM] Nominal VeriStand 2024 Client: Discover started.
+[8:29:21.94 PM] Discovery found 1 new dependency.
+   Parent: C:\code\veristand-client\Built\Nominal Client\Windows   New dependency: C:\code\veristand-client\Built\Nominal Client\Windows\nominal-labview-client.lvlibp
+[8:29:21.94 PM] Nominal VeriStand 2024 Client: Discover successful
+[8:29:21.98 PM] Nominal VeriStand 2024 Client: Analyze started.
+[8:29:22.17 PM] Nominal VeriStand 2024 Client: Analyze successful.
+[8:29:22.18 PM] Nominal VeriStand 2024 Client: Clean started.
+[8:29:22.39 PM] Nominal VeriStand 2024 Client: Clean successful.
+[8:29:22.41 PM] Nominal VeriStand 2024 Client: Build Packages started.
+[8:29:26.22 PM] Nominal VeriStand 2024 Client: Build Packages successful.
+[8:29:26.31 PM] ======= Build Solution: Summary =======
+[8:29:26.31 PM] 1) Package 'Nominal VeriStand 2024 Client' Build detailed summary
+   Nominal VeriStand 2024 Client   Succeeded
+   Output directory                C:\code\veristand-client\Built
+   Filename                        nominal-client-veristand2024_1.0.0.8_windows_x64.nipkg
+   Stage directory                 C:\code\veristand-client\Built\Nominal VeriStand 2024 Client
+   Package version                 1.0.0.8
+   Display version                 1.0.0
+   Architecture                    windows_x64
+[8:29:26.31 PM] ======= Build Solution: 1 Succeeded, 0 Failed, 0 Canceled (elapsed time 00:04.55) =======
+[8:29:48.97 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs
+[8:29:54.27 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs
