@@ -599,8 +599,8 @@
             <AutoIncrementVersion>Build</AutoIncrementVersion>
             <BuildStatus z:Id="i89">
                 <BuildEverSuccessful>true</BuildEverSuccessful>
-                <FileName>nominal-client-veristand2024_1.0.0.0_windows_x64.nipkg</FileName>
-                <Version>1.0.0.0</Version>
+                <FileName>nominal-client-veristand2024_1.0.0.2_windows_x64.nipkg</FileName>
+                <Version>1.0.0.2</Version>
             </BuildStatus>
             <CompanyName>MyCompany</CompanyName>
             <CustomExecutes />
@@ -611,17 +611,17 @@ Nominal powers mission-critical engineering work with modern analysis tools, rea
 Enterprise-grade security and scale
 Nominal is built for startup, enterprise, and government deployments. Our architecture scales effortlessly while safeguarding your most critical missions.</Description>
             <DisplayName>Nominal VeriStand 2024 Client</DisplayName>
-            <FileName>nominal-client-veristand2024_1.0.0.1_windows_x64.nipkg</FileName>
+            <FileName>nominal-client-veristand2024_1.0.0.3_windows_x64.nipkg</FileName>
             <Homepage>https://nominal.io/</Homepage>
             <MaintainerEmail>tom@jki.net</MaintainerEmail>
-            <MaintainerName>Tom McQuillan JKI</MaintainerName>
+            <MaintainerName>JKI</MaintainerName>
             <Messages xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
             <PackageName>nominal-client-veristand2024</PackageName>
             <PackageRelationships />
             <ProductName>MyProduct</ProductName>
             <Section>Add-Ons</Section>
             <Synopsis>The official Nominal VeriStand client.</Synopsis>
-            <Version>1.0.0.1</Version>
+            <Version>1.0.0.3</Version>
         </Distribution>
     </Distributions>
     <Feeds />
