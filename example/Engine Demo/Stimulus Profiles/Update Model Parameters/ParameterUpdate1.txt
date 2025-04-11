@@ -1,2 +1,0 @@
-{Environment_Temperature}	75
-{Idle_Speed_RPM}	2000
