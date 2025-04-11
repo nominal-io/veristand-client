@@ -1,8 +1,10 @@
 # Executables
 *.exe
 Built/
+/source/processingStage
 
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+/source/ProcessingStage
