@@ -21,191 +21,197 @@
         </SourceItem>
         <SourceItem z:Id="i5">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Nominal Client Configuration.lvlibp</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\lvwebclient_64.dll</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i6">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Nominal Client Engine Windows.lvlibp</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Nominal Client Configuration.lvlibp</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i7">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\nominal-labview-client.lvlibp</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Nominal Client Engine Windows.lvlibp</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i8">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\css\expandable_tree.css</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\nominal-labview-client.lvlibp</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i9">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\css\VSsystemexplorer.css</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\css\expandable_tree.css</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i10">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Extra 1.htm</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\css\VSsystemexplorer.css</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i11">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Extra 2.htm</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Extra 1.htm</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i12">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Extra 3.htm</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Extra 2.htm</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i13">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\arraytools.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Extra 3.htm</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i14">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\checkinstalled.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\arraytools.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i15">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\common.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\checkinstalled.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i16">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\cssframes.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\common.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i17">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\domtools.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\cssframes.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i18">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\dynamiccontent.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\domtools.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i19">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\dynamicjumps.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\dynamiccontent.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i20">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\dynamiclinks.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\dynamicjumps.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i21">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\expandable_tree.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\dynamiclinks.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i22">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\feedbacklink.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\expandable_tree.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i23">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\Globals.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\feedbacklink.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i24">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\initpagedyn.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\Globals.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i25">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\launchhelp.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\initpagedyn.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i26">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\linking.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\launchhelp.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i27">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\objectnames.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\linking.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i28">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\osbrowser.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\objectnames.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i29">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\pdf.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\osbrowser.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i30">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\polyviselect.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\pdf.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i31">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\stylesheets.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\polyviselect.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i32">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\variables.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\stylesheets.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i33">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\web.js</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\variables.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i34">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Main.htm</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\js\web.js</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i35">
             <PluginConfigurationOptions />
-            <RelativePath>Glyphs\nominal.png</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\Main.htm</RelativePath>
             <DependentItems />
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i36">
+            <PluginConfigurationOptions />
+            <RelativePath>Glyphs\nominal.png</RelativePath>
+            <DependentItems />
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i37">
             <PluginConfigurationOptions />
             <RelativePath>..\Built\Nominal Client\Linux_x64</RelativePath>
             <DependentItems>
@@ -213,28 +219,27 @@
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
-        <SourceItem z:Id="i37">
+        <SourceItem z:Id="i38">
             <PluginConfigurationOptions />
             <RelativePath>Glyphs</RelativePath>
             <DependentItems>
-                <SourceItem z:Ref="i35" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i38">
-            <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help\css</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i8" />
-                <SourceItem z:Ref="i9" />
+                <SourceItem z:Ref="i36" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i39">
             <PluginConfigurationOptions />
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help\css</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i9" />
+                <SourceItem z:Ref="i10" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i40">
+            <PluginConfigurationOptions />
             <RelativePath>..\Built\Nominal Client\Windows\Page Help\js</RelativePath>
             <DependentItems>
-                <SourceItem z:Ref="i13" />
                 <SourceItem z:Ref="i14" />
                 <SourceItem z:Ref="i15" />
                 <SourceItem z:Ref="i16" />
@@ -255,353 +260,363 @@
                 <SourceItem z:Ref="i31" />
                 <SourceItem z:Ref="i32" />
                 <SourceItem z:Ref="i33" />
-            </DependentItems>
-            <IsDiscoverable>true</IsDiscoverable>
-        </SourceItem>
-        <SourceItem z:Id="i40">
-            <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows\Page Help</RelativePath>
-            <DependentItems>
-                <SourceItem z:Ref="i10" />
-                <SourceItem z:Ref="i11" />
-                <SourceItem z:Ref="i12" />
                 <SourceItem z:Ref="i34" />
-                <SourceItem z:Ref="i38" />
-                <SourceItem z:Ref="i39" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i41">
             <PluginConfigurationOptions />
-            <RelativePath>..\Built\Nominal Client\Windows</RelativePath>
+            <RelativePath>..\Built\Nominal Client\Windows\Page Help</RelativePath>
             <DependentItems>
-                <SourceItem z:Ref="i5" />
-                <SourceItem z:Ref="i6" />
+                <SourceItem z:Ref="i11" />
+                <SourceItem z:Ref="i12" />
+                <SourceItem z:Ref="i13" />
+                <SourceItem z:Ref="i35" />
+                <SourceItem z:Ref="i39" />
                 <SourceItem z:Ref="i40" />
-                <SourceItem z:Ref="i7" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
         <SourceItem z:Id="i42">
             <PluginConfigurationOptions />
+            <RelativePath>..\Built\Nominal Client\Windows</RelativePath>
+            <DependentItems>
+                <SourceItem z:Ref="i6" />
+                <SourceItem z:Ref="i7" />
+                <SourceItem z:Ref="i41" />
+                <SourceItem z:Ref="i8" />
+                <SourceItem z:Ref="i5" />
+            </DependentItems>
+            <IsDiscoverable>true</IsDiscoverable>
+        </SourceItem>
+        <SourceItem z:Id="i43">
+            <PluginConfigurationOptions />
             <RelativePath>..\Built\Nominal Client</RelativePath>
             <DependentItems>
                 <SourceItem z:Ref="i2" />
                 <SourceItem z:Ref="i3" />
-                <SourceItem z:Ref="i36" />
-                <SourceItem z:Ref="i41" />
+                <SourceItem z:Ref="i37" />
+                <SourceItem z:Ref="i42" />
             </DependentItems>
             <IsDiscoverable>true</IsDiscoverable>
         </SourceItem>
     </SourceItems>
     <InputSourceItems>
-        <SourceItem z:Ref="i42" />
-        <SourceItem z:Ref="i37" />
-        <SourceItem z:Ref="i7" />
+        <SourceItem z:Ref="i43" />
+        <SourceItem z:Ref="i38" />
+        <SourceItem z:Ref="i8" />
+        <SourceItem z:Ref="i5" />
     </InputSourceItems>
     <Distributions>
-        <Distribution z:Id="i43" i:type="Package">
+        <Distribution z:Id="i44" i:type="Package">
             <DistributionItems>
-                <DistributionItem z:Id="i44" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i45" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments</DestinationRelativePath>
                     <Name>National Instruments</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i45" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i46" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024</DestinationRelativePath>
                     <Name>VeriStand 2024</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i46" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i47" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices</DestinationRelativePath>
                     <Name>Custom Devices</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i47" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i48" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client</DestinationRelativePath>
                     <Name>Nominal Client</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i48" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i49" i:type="DistributionFileItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Custom Device Nominal Client.xml</DestinationRelativePath>
                     <Name>Custom Device Nominal Client.xml</Name>
                     <SourceItem z:Ref="i2" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i49" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i50" i:type="DistributionFileItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Engine Release PPL_depinstr.bin</DestinationRelativePath>
                     <Name>Engine Release PPL_depinstr.bin</Name>
                     <SourceItem z:Ref="i3" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i50" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i51" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Linux_x64</DestinationRelativePath>
                     <Name>Linux_x64</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i51" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i52" i:type="DistributionFileItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Linux_x64\Nominal Client Engine Linux64.lvlibp</DestinationRelativePath>
                     <Name>Nominal Client Engine Linux64.lvlibp</Name>
                     <SourceItem z:Ref="i4" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i52" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i53" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows</DestinationRelativePath>
                     <Name>Windows</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i53" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i54" i:type="DistributionFileItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Nominal Client Configuration.lvlibp</DestinationRelativePath>
                     <Name>Nominal Client Configuration.lvlibp</Name>
-                    <SourceItem z:Ref="i5" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i54" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Nominal Client Engine Windows.lvlibp</DestinationRelativePath>
-                    <Name>Nominal Client Engine Windows.lvlibp</Name>
                     <SourceItem z:Ref="i6" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i55" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i55" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Nominal Client Engine Windows.lvlibp</DestinationRelativePath>
+                    <Name>Nominal Client Engine Windows.lvlibp</Name>
+                    <SourceItem z:Ref="i7" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i56" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help</DestinationRelativePath>
                     <Name>Page Help</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i56" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i57" i:type="DistributionFileItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\Extra 1.htm</DestinationRelativePath>
                     <Name>Extra 1.htm</Name>
-                    <SourceItem z:Ref="i10" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i57" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\Extra 2.htm</DestinationRelativePath>
-                    <Name>Extra 2.htm</Name>
                     <SourceItem z:Ref="i11" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i58" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\Extra 3.htm</DestinationRelativePath>
-                    <Name>Extra 3.htm</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\Extra 2.htm</DestinationRelativePath>
+                    <Name>Extra 2.htm</Name>
                     <SourceItem z:Ref="i12" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i59" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\Main.htm</DestinationRelativePath>
-                    <Name>Main.htm</Name>
-                    <SourceItem z:Ref="i34" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i60" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\css</DestinationRelativePath>
-                    <Name>css</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i61" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\css\expandable_tree.css</DestinationRelativePath>
-                    <Name>expandable_tree.css</Name>
-                    <SourceItem z:Ref="i8" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i62" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\css\VSsystemexplorer.css</DestinationRelativePath>
-                    <Name>VSsystemexplorer.css</Name>
-                    <SourceItem z:Ref="i9" />
-                    <PluginConfigurationOptions />
-                    <ProcessDuringStaging>true</ProcessDuringStaging>
-                </DistributionItem>
-                <DistributionItem z:Id="i63" i:type="DistributionDirectoryItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js</DestinationRelativePath>
-                    <Name>js</Name>
-                    <SourceItem i:nil="true" />
-                </DistributionItem>
-                <DistributionItem z:Id="i64" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\arraytools.js</DestinationRelativePath>
-                    <Name>arraytools.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\Extra 3.htm</DestinationRelativePath>
+                    <Name>Extra 3.htm</Name>
                     <SourceItem z:Ref="i13" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
+                <DistributionItem z:Id="i60" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\Main.htm</DestinationRelativePath>
+                    <Name>Main.htm</Name>
+                    <SourceItem z:Ref="i35" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i61" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\css</DestinationRelativePath>
+                    <Name>css</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
+                <DistributionItem z:Id="i62" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\css\expandable_tree.css</DestinationRelativePath>
+                    <Name>expandable_tree.css</Name>
+                    <SourceItem z:Ref="i9" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i63" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\css\VSsystemexplorer.css</DestinationRelativePath>
+                    <Name>VSsystemexplorer.css</Name>
+                    <SourceItem z:Ref="i10" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i64" i:type="DistributionDirectoryItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js</DestinationRelativePath>
+                    <Name>js</Name>
+                    <SourceItem i:nil="true" />
+                </DistributionItem>
                 <DistributionItem z:Id="i65" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\checkinstalled.js</DestinationRelativePath>
-                    <Name>checkinstalled.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\arraytools.js</DestinationRelativePath>
+                    <Name>arraytools.js</Name>
                     <SourceItem z:Ref="i14" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i66" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\common.js</DestinationRelativePath>
-                    <Name>common.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\checkinstalled.js</DestinationRelativePath>
+                    <Name>checkinstalled.js</Name>
                     <SourceItem z:Ref="i15" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i67" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\cssframes.js</DestinationRelativePath>
-                    <Name>cssframes.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\common.js</DestinationRelativePath>
+                    <Name>common.js</Name>
                     <SourceItem z:Ref="i16" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i68" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\domtools.js</DestinationRelativePath>
-                    <Name>domtools.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\cssframes.js</DestinationRelativePath>
+                    <Name>cssframes.js</Name>
                     <SourceItem z:Ref="i17" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i69" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\dynamiccontent.js</DestinationRelativePath>
-                    <Name>dynamiccontent.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\domtools.js</DestinationRelativePath>
+                    <Name>domtools.js</Name>
                     <SourceItem z:Ref="i18" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i70" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\dynamicjumps.js</DestinationRelativePath>
-                    <Name>dynamicjumps.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\dynamiccontent.js</DestinationRelativePath>
+                    <Name>dynamiccontent.js</Name>
                     <SourceItem z:Ref="i19" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i71" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\dynamiclinks.js</DestinationRelativePath>
-                    <Name>dynamiclinks.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\dynamicjumps.js</DestinationRelativePath>
+                    <Name>dynamicjumps.js</Name>
                     <SourceItem z:Ref="i20" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i72" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\expandable_tree.js</DestinationRelativePath>
-                    <Name>expandable_tree.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\dynamiclinks.js</DestinationRelativePath>
+                    <Name>dynamiclinks.js</Name>
                     <SourceItem z:Ref="i21" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i73" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\feedbacklink.js</DestinationRelativePath>
-                    <Name>feedbacklink.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\expandable_tree.js</DestinationRelativePath>
+                    <Name>expandable_tree.js</Name>
                     <SourceItem z:Ref="i22" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i74" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\Globals.js</DestinationRelativePath>
-                    <Name>Globals.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\feedbacklink.js</DestinationRelativePath>
+                    <Name>feedbacklink.js</Name>
                     <SourceItem z:Ref="i23" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i75" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\initpagedyn.js</DestinationRelativePath>
-                    <Name>initpagedyn.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\Globals.js</DestinationRelativePath>
+                    <Name>Globals.js</Name>
                     <SourceItem z:Ref="i24" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i76" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\launchhelp.js</DestinationRelativePath>
-                    <Name>launchhelp.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\initpagedyn.js</DestinationRelativePath>
+                    <Name>initpagedyn.js</Name>
                     <SourceItem z:Ref="i25" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i77" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\linking.js</DestinationRelativePath>
-                    <Name>linking.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\launchhelp.js</DestinationRelativePath>
+                    <Name>launchhelp.js</Name>
                     <SourceItem z:Ref="i26" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i78" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\objectnames.js</DestinationRelativePath>
-                    <Name>objectnames.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\linking.js</DestinationRelativePath>
+                    <Name>linking.js</Name>
                     <SourceItem z:Ref="i27" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i79" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\osbrowser.js</DestinationRelativePath>
-                    <Name>osbrowser.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\objectnames.js</DestinationRelativePath>
+                    <Name>objectnames.js</Name>
                     <SourceItem z:Ref="i28" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i80" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\pdf.js</DestinationRelativePath>
-                    <Name>pdf.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\osbrowser.js</DestinationRelativePath>
+                    <Name>osbrowser.js</Name>
                     <SourceItem z:Ref="i29" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i81" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\polyviselect.js</DestinationRelativePath>
-                    <Name>polyviselect.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\pdf.js</DestinationRelativePath>
+                    <Name>pdf.js</Name>
                     <SourceItem z:Ref="i30" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i82" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\stylesheets.js</DestinationRelativePath>
-                    <Name>stylesheets.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\polyviselect.js</DestinationRelativePath>
+                    <Name>polyviselect.js</Name>
                     <SourceItem z:Ref="i31" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i83" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\variables.js</DestinationRelativePath>
-                    <Name>variables.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\stylesheets.js</DestinationRelativePath>
+                    <Name>stylesheets.js</Name>
                     <SourceItem z:Ref="i32" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
                 <DistributionItem z:Id="i84" i:type="DistributionFileItem">
-                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\web.js</DestinationRelativePath>
-                    <Name>web.js</Name>
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\variables.js</DestinationRelativePath>
+                    <Name>variables.js</Name>
                     <SourceItem z:Ref="i33" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i85" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i85" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\Page Help\js\web.js</DestinationRelativePath>
+                    <Name>web.js</Name>
+                    <SourceItem z:Ref="i34" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i86" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments</DestinationRelativePath>
                     <Name>National Instruments</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i86" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i87" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\NI VeriStand 2024</DestinationRelativePath>
                     <Name>NI VeriStand 2024</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i87" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i88" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\NI VeriStand 2024\System Explorer</DestinationRelativePath>
                     <Name>System Explorer</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i88" i:type="DistributionDirectoryItem">
+                <DistributionItem z:Id="i89" i:type="DistributionDirectoryItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\NI VeriStand 2024\System Explorer\Glyphs</DestinationRelativePath>
                     <Name>Glyphs</Name>
                     <SourceItem i:nil="true" />
                 </DistributionItem>
-                <DistributionItem z:Id="i89" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i90" i:type="DistributionFileItem">
                     <DestinationRelativePath>[ProgramData]\National Instruments\NI VeriStand 2024\System Explorer\Glyphs\nominal.png</DestinationRelativePath>
                     <Name>nominal.png</Name>
-                    <SourceItem z:Ref="i35" />
+                    <SourceItem z:Ref="i36" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
-                <DistributionItem z:Id="i90" i:type="DistributionFileItem">
+                <DistributionItem z:Id="i91" i:type="DistributionFileItem">
                     <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\nominal-labview-client.lvlibp</DestinationRelativePath>
                     <Name>nominal-labview-client.lvlibp</Name>
-                    <SourceItem z:Ref="i7" />
+                    <SourceItem z:Ref="i8" />
+                    <PluginConfigurationOptions />
+                    <ProcessDuringStaging>true</ProcessDuringStaging>
+                </DistributionItem>
+                <DistributionItem z:Id="i92" i:type="DistributionFileItem">
+                    <DestinationRelativePath>[Program Files (64-bit)]\National Instruments\VeriStand 2024\lvwebclient_64.dll</DestinationRelativePath>
+                    <Name>lvwebclient_64.dll</Name>
+                    <SourceItem z:Ref="i5" />
                     <PluginConfigurationOptions />
                     <ProcessDuringStaging>true</ProcessDuringStaging>
                 </DistributionItem>
@@ -612,10 +627,10 @@
             <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>
             <Architecture>windows_x64</Architecture>
             <AutoIncrementVersion>Build</AutoIncrementVersion>
-            <BuildStatus z:Id="i91">
+            <BuildStatus z:Id="i93">
                 <BuildEverSuccessful>true</BuildEverSuccessful>
-                <FileName>nominal-client-veristand2024_1.0.0.8_windows_x64.nipkg</FileName>
-                <Version>1.0.0.8</Version>
+                <FileName>nominal-client-veristand2024_1.0.0.14_windows_x64.nipkg</FileName>
+                <Version>1.0.0.14</Version>
             </BuildStatus>
             <CompanyName>MyCompany</CompanyName>
             <CustomExecutes />
@@ -626,7 +641,7 @@ Nominal powers mission-critical engineering work with modern analysis tools, rea
 Enterprise-grade security and scale
 Nominal is built for startup, enterprise, and government deployments. Our architecture scales effortlessly while safeguarding your most critical missions.</Description>
             <DisplayName>Nominal VeriStand 2024 Client</DisplayName>
-            <FileName>nominal-client-veristand2024_1.0.0.9_windows_x64.nipkg</FileName>
+            <FileName>nominal-client-veristand2024_1.0.0.15_windows_x64.nipkg</FileName>
             <Homepage>https://nominal.io/</Homepage>
             <MaintainerEmail>tom@jki.net</MaintainerEmail>
             <MaintainerName>JKI</MaintainerName>
@@ -636,14 +651,14 @@ Nominal is built for startup, enterprise, and government deployments. Our archit
             <ProductName>MyProduct</ProductName>
             <Section>Add-Ons</Section>
             <Synopsis>The official Nominal VeriStand client.</Synopsis>
-            <Version>1.0.0.9</Version>
+            <Version>1.0.0.15</Version>
         </Distribution>
     </Distributions>
     <Feeds />
     <DistributionGroups>
-        <DistributionGroup z:Id="i92">
+        <DistributionGroup z:Id="i94">
             <Distributions>
-                <Distribution z:Ref="i43" />
+                <Distribution z:Ref="i44" />
             </Distributions>
             <Name>Distribution Group</Name>
             <PrebuildAnalysisEnabled>true</PrebuildAnalysisEnabled>

@@ -25,4 +25,5 @@
 		</Item>
 		<Item Name="Types" Type="Folder"/>
 	</Item>
+	<Item Name="memory tree.vi" Type="VI" URL="../memory tree.vi"/>
 </Library>

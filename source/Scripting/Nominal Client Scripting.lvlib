@@ -11,6 +11,8 @@
 	<Item Name="dataset_connection_name.get.vi" Type="VI" URL="../dataset_connection_name.get.vi"/>
 	<Item Name="dataset_connection_name.set.vi" Type="VI" URL="../dataset_connection_name.set.vi"/>
 	<Item Name="format_streaming_channels.set.vi" Type="VI" URL="../format_streaming_channels.set.vi"/>
+	<Item Name="streaming_channel_paths.get.vi" Type="VI" URL="../streaming_channel_paths.get.vi"/>
+	<Item Name="streaming_channel_paths.set.vi" Type="VI" URL="../streaming_channel_paths.set.vi"/>
 	<Item Name="streaming_channel_references.get.vi" Type="VI" URL="../streaming_channel_references.get.vi"/>
 	<Item Name="streaming_channel_references.set.vi" Type="VI" URL="../streaming_channel_references.set.vi"/>
 </Library>

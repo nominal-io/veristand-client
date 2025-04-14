@@ -114,15 +114,13 @@
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{BCFA95E4-C56D-478A-A606-2CF5C2FC00F7}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">nominal labview client ppl</Property>
-				<Property Name="Bld_excludeDependentDLLs" Type="Bool">true</Property>
-				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeTypedefs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/code/veristand-client/Built/Nominal Client/Windows</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{AEB6CD69-20E6-4EA7-966C-2C2C3615BA00}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">nominal-labview-client.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/code/veristand-client/Built/Nominal Client/Windows/nominal-labview-client.lvlibp</Property>
@@ -134,7 +132,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{3FFDA524-312C-42B8-B71A-CD2E82724A12}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2C47642E-273D-4F73-9698-21AF7F2ACCAB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/nominal labview client.lvlib</Property>

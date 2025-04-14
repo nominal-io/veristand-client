@@ -96,30 +96,12 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="VS Inline Async API.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NIVS Inline Async API/_VS Inline Async API/VS Inline Async API.lvlib"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
-				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Set Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Busy.vi"/>
 				<Item Name="Set Cursor.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor.vi"/>
 				<Item Name="Set Cursor (Cursor ID).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Cursor ID).vi"/>
 				<Item Name="Set Cursor (Icon Pict).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Icon Pict).vi"/>
 				<Item Name="Unset Busy.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Unset Busy.vi"/>
-				<Item Name="Get File System Separator.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysinfo.llb/Get File System Separator.vi"/>
-				<Item Name="Has LLB Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Has LLB Extension.vi"/>
-				<Item Name="Get VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get VI Library File Info.vi"/>
-				<Item Name="Librarian File Info Out.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian File Info Out.ctl"/>
-				<Item Name="Librarian.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian.vi"/>
-				<Item Name="Librarian File Info In.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian File Info In.ctl"/>
-				<Item Name="Librarian File List.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian File List.ctl"/>
-				<Item Name="Librarian Get Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian Get Info.vi"/>
-				<Item Name="Librarian Path Location.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian Path Location.vi"/>
-				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
-				<Item Name="Librarian Set Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Librarian Set Info.vi"/>
-				<Item Name="Set VI Library File Info.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Set VI Library File Info.vi"/>
-			</Item>
-			<Item Name="user.lib" Type="Folder">
-				<Item Name="openg_array.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/openg_array.lvlib"/>
-				<Item Name="openg_file.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/openg_file.lvlib"/>
-				<Item Name="openg_error.lvlib" Type="Library" URL="/&lt;userlib&gt;/_OpenG.lib/error/error.llb/openg_error.lvlib"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -143,6 +125,79 @@
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="nominal-labview-client.lvlibp" Type="LVLibp" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp">
+				<Item Name="Application Directory.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Application Directory.vi"/>
+				<Item Name="Base64 Support.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/JDP Science/JDP Science Common Utilities/Base64/Base64 Support.lvlib"/>
+				<Item Name="BuildHelpPath.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/BuildHelpPath.vi"/>
+				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
+				<Item Name="Check Special Tags.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Check Special Tags.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Convert property node font to graphics font.vi"/>
+				<Item Name="DateTime.ISO8601.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/DateTime.ISO8601.lvclass"/>
+				<Item Name="DateTimeFormatter.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter/DateTimeFormatter.lvclass"/>
+				<Item Name="Details Display Dialog.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Details Display Dialog.vi"/>
+				<Item Name="Epoch.GPS.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/epoch.GPS/Epoch.GPS.lvclass"/>
+				<Item Name="Epoch.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/epoch/Epoch.lvclass"/>
+				<Item Name="Epoch.UNIX.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/epoch.UNIX/Epoch.UNIX.lvclass"/>
+				<Item Name="Epoch.UTC.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/epoch.UTC/Epoch.UTC.lvclass"/>
+				<Item Name="EpochNotTimestamp.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/EpochNotTimestamp.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="Error Code Database.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Error Code Database.vi"/>
+				<Item Name="Find Tag.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Find Tag.vi"/>
+				<Item Name="Format Message String.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Format Message String.vi"/>
+				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler Core CORE.vi"/>
+				<Item Name="General Error Handler.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/General Error Handler.vi"/>
+				<Item Name="Get Epoch Time.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/Get Epoch Time.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Get File Extension.vi"/>
+				<Item Name="Get Local UTC Offset.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/Get Local UTC Offset.vi"/>
+				<Item Name="Get LV Class Name.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
+				<Item Name="Get String Text Bounds.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Get String Text Bounds.vi"/>
+				<Item Name="Get Text Rect.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/picture/picture.llb/Get Text Rect.vi"/>
+				<Item Name="GetHelpDir.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetHelpDir.vi"/>
+				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="GregorianCal_MonthLengths.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/GregorianCal_MonthLengths.vi"/>
+				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Is Path and Not Empty.vi"/>
+				<Item Name="isDST.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/isDST.vi"/>
+				<Item Name="isLeapYear (integer).vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/isLeapYear (integer).vi"/>
+				<Item Name="isLeapYear (timestamp).vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/isLeapYear (timestamp).vi"/>
+				<Item Name="ISO8601 DateString to Timestamp.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/ISO8601 DateString to Timestamp.vi"/>
+				<Item Name="JDP Timestamp.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/JDP Science/JDP Science Common Utilities/Timestamp/JDP Timestamp.lvlib"/>
+				<Item Name="JDP Utility.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/JDP Science/JDP Science Common Utilities/JDP Utility.lvlib"/>
+				<Item Name="JSONtext LVClass Serializer.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/JDP Science/JSONtext/LVClass Serializer/JSONtext LVClass Serializer.lvclass"/>
+				<Item Name="JSONtext.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/JDP Science/JSONtext/JSONtext.lvlib"/>
+				<Item Name="lib_NI_Advanced HTTP Client.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/NI/Advanced HTTP Client/lib_NI_Advanced HTTP Client.lvlib"/>
+				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Longest Line Length in Pixels.vi"/>
+				<Item Name="Multipart Upload.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Nominal/Nominal IO Client/Nominal Client MultiPart Upload/Multipart Upload.lvclass"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="NI_FileType.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
+				<Item Name="Nominal Client.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Nominal/Nominal IO Client/Nominal Client/Nominal Client.lvclass"/>
+				<Item Name="Not Found Dialog.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="openg_array.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/user.lib/_OpenG.lib/array/array.llb/openg_array.lvlib"/>
+				<Item Name="REST Client.lvlib" Type="Library" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/addons/_JKI.lib/REST Client/REST Client.lvlib"/>
+				<Item Name="Run.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Nominal/Nominal IO Client/Run/Run.lvclass"/>
+				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Search and Replace Pattern.vi"/>
+				<Item Name="Set Bold Text.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Set Bold Text.vi"/>
+				<Item Name="Set String Value.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Set String Value.vi"/>
+				<Item Name="Simple Error Handler.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Simple Error Handler.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog CORE.vi"/>
+				<Item Name="Three Button Dialog.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog.vi"/>
+				<Item Name="Timestamp to ISO8601 Date.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/Timestamp to ISO8601 Date.vi"/>
+				<Item Name="Timestamp to ISO8601 Day.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/Timestamp to ISO8601 Day.vi"/>
+				<Item Name="Timestamp to ISO8601 UTC DateTime.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/Timestamp to ISO8601 UTC DateTime.vi"/>
+				<Item Name="Timestamp to ISO8601 Week.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/Timestamp to ISO8601 Week.vi"/>
+				<Item Name="Timestamp to ISO8601 Year.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/Timestamp to ISO8601 Year.vi"/>
+				<Item Name="timestampMetadata.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Nominal/Nominal IO Client/timestampMetadata/timestampMetadata.lvclass"/>
+				<Item Name="token.valid.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/token.valid.vi"/>
+				<Item Name="Trim Whitespace One-Sided.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace One-Sided.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="ts.epochOfTimeUnit.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Nominal/Nominal IO Client/ts.epochOfTimeUnit/ts.epochOfTimeUnit.lvclass"/>
+				<Item Name="UTC Offset to Seconds.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/UTC Offset to Seconds.vi"/>
+				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
+				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/file.llb/Write Spreadsheet String.vi"/>
+			</Item>
+			<Item Name="lvwebclient_64.dll" Type="Document" URL="../../Built/Nominal Client/Windows/lvwebclient_64.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Configuration Release PPL" Type="Packed Library">
@@ -158,7 +213,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/PPL CD XML Updater.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C7B72E93-8B50-487C-8B64-9F99DA0DED33}</Property>
-				<Property Name="Bld_version.build" Type="Int">15</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Nominal Client Configuration.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Built/Nominal Client/Windows/Nominal Client Configuration.lvlibp</Property>
@@ -213,7 +268,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/PPL CD XML Updater.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{374428A7-476B-4605-B75D-2BC1D56CF4D1}</Property>
-				<Property Name="Bld_version.build" Type="Int">21</Property>
+				<Property Name="Bld_version.build" Type="Int">30</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Nominal Client Engine Windows.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Built/Nominal Client/Windows/Nominal Client Engine Windows.lvlibp</Property>
@@ -321,6 +376,7 @@
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="GetRTHostConnectedProp.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetRTHostConnectedProp.vi"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
