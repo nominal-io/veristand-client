@@ -132,10 +132,13 @@
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Check Special Tags.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="connect.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/connect.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Convert property node font to graphics font.vi"/>
+				<Item Name="datasource.initialize.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/datasource.initialize.vi"/>
 				<Item Name="DateTime.ISO8601.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/DateTime.ISO8601.lvclass"/>
 				<Item Name="DateTimeFormatter.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter/DateTimeFormatter.lvclass"/>
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Details Display Dialog.vi"/>
+				<Item Name="disconnect.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/disconnect.vi"/>
 				<Item Name="Epoch.GPS.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/epoch.GPS/Epoch.GPS.lvclass"/>
 				<Item Name="Epoch.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/epoch/Epoch.lvclass"/>
 				<Item Name="Epoch.UNIX.lvclass" Type="LVClass" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/epoch.UNIX/Epoch.UNIX.lvclass"/>
@@ -181,6 +184,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="stream.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/stream.vi"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/Utility/error.llb/Three Button Dialog.vi"/>
 				<Item Name="Timestamp to ISO8601 Date.vi" Type="VI" URL="../../Built/Nominal Client/Windows/nominal-labview-client.lvlibp/1abvi3w/vi.lib/LabVIEW Open Source Project/Epoch Date &amp; Time/formatter.iso8601/Timestamp to ISO8601 Date.vi"/>
@@ -213,7 +217,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/PPL CD XML Updater.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{C7B72E93-8B50-487C-8B64-9F99DA0DED33}</Property>
-				<Property Name="Bld_version.build" Type="Int">25</Property>
+				<Property Name="Bld_version.build" Type="Int">26</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Nominal Client Configuration.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Built/Nominal Client/Windows/Nominal Client Configuration.lvlibp</Property>
@@ -268,7 +272,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Utility/PPL CD XML Updater.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{374428A7-476B-4605-B75D-2BC1D56CF4D1}</Property>
-				<Property Name="Bld_version.build" Type="Int">31</Property>
+				<Property Name="Bld_version.build" Type="Int">32</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Nominal Client Engine Windows.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Built/Nominal Client/Windows/Nominal Client Engine Windows.lvlibp</Property>
