@@ -8,6 +8,8 @@
 	<Item Name="api_token_path.set.vi" Type="VI" URL="../api_token_path.set.vi"/>
 	<Item Name="channels_to_stream.get.vi" Type="VI" URL="../channels_to_stream.get.vi"/>
 	<Item Name="channels_to_stream.set.vi" Type="VI" URL="../channels_to_stream.set.vi"/>
+	<Item Name="create_new_dataset.get.vi" Type="VI" URL="../create_new_dataset.get.vi"/>
+	<Item Name="create_new_dataset.set.vi" Type="VI" URL="../create_new_dataset.set.vi"/>
 	<Item Name="dataset_connection_name.get.vi" Type="VI" URL="../dataset_connection_name.get.vi"/>
 	<Item Name="dataset_connection_name.set.vi" Type="VI" URL="../dataset_connection_name.set.vi"/>
 	<Item Name="format_streaming_channels.set.vi" Type="VI" URL="../format_streaming_channels.set.vi"/>
@@ -15,4 +17,8 @@
 	<Item Name="streaming_channel_paths.set.vi" Type="VI" URL="../streaming_channel_paths.set.vi"/>
 	<Item Name="streaming_channel_references.get.vi" Type="VI" URL="../streaming_channel_references.get.vi"/>
 	<Item Name="streaming_channel_references.set.vi" Type="VI" URL="../streaming_channel_references.set.vi"/>
+	<Item Name="timing_channel_path.get.vi" Type="VI" URL="../timing_channel_path.get.vi"/>
+	<Item Name="timing_channel_path.set.vi" Type="VI" URL="../timing_channel_path.set.vi"/>
+	<Item Name="timing_channel_reference.get.vi" Type="VI" URL="../timing_channel_reference.get.vi"/>
+	<Item Name="timing_channel_reference.set.vi" Type="VI" URL="../timing_channel_reference.set.vi"/>
 </Library>

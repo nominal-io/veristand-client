@@ -120,7 +120,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/code/veristand-client/Built/Nominal Client/Windows</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{AEB6CD69-20E6-4EA7-966C-2C2C3615BA00}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">nominal-labview-client.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/code/veristand-client/Built/Nominal Client/Windows/nominal-labview-client.lvlibp</Property>
