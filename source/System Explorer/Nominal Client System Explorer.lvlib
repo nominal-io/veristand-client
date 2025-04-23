@@ -7,7 +7,7 @@
 	<Item Name="System Explorer" Type="Folder">
 		<Item Name="Dynamically Called" Type="Folder">
 			<Item Name="Extra Pages" Type="Folder">
-				<Item Name="Extra 1.vi" Type="VI" URL="../Extra 1.vi"/>
+				<Item Name="Enable Streaming.vi" Type="VI" URL="../Enable Streaming.vi"/>
 				<Item Name="Extra 2.vi" Type="VI" URL="../Extra 2.vi"/>
 				<Item Name="Extra 3.vi" Type="VI" URL="../Extra 3.vi"/>
 			</Item>

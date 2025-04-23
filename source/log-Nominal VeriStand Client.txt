@@ -1,69 +1,56 @@
-[4:53:24.44 PM] Solution log file opened: C:\code\veristand-client\source\log-Nominal VeriStand Client.txt
-[4:53:24.45 PM] System summary
-   Date               04/17/2025 16:53:24
+[8:29:10.18 PM] Solution log file opened: C:\code\veristand-client\source\log-Nominal VeriStand Client.txt
+[8:29:10.19 PM] System summary
+   Date               04/23/2025 20:29:10
    NIPB version       25.3.0.1879
    NIPB bitness       64-bit
    NIPM version       25.3.0.49254
    Operating System   Windows 10 64-bit
-[4:54:00.51 PM] ======= Build Solution: Started =======
-[4:54:00.57 PM] Nominal VeriStand 2024 Client: Discover started.
-[4:54:00.59 PM] Warning 16061: Discovery could not be performed on missing input items.
-   C:\code\veristand-client\Built\Nominal Client\Windows\nominal-labview-client.lvlibp
-[4:54:04.46 PM] Discovery found 1 new dependency.
-   Parent: C:\code\veristand-client\Built\Nominal Client   New dependency: C:\code\veristand-client\Built\Nominal Client\nominal labview client ppl_depinstr.bin
-[4:54:04.48 PM] Error -16057: Disconnected files and/or directories found.
-   Package name: Nominal VeriStand 2024 Client   Destination path: [Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Engine Release PPL_depinstr.bin
-   Package name: Nominal VeriStand 2024 Client   Destination path: [Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Linux_x64\Nominal Client Engine Linux64.lvlibp
-   Package name: Nominal VeriStand 2024 Client   Destination path: [Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\nominal-labview-client.lvlibp
-[4:54:04.48 PM] Nominal VeriStand 2024 Client: Discover failed
-[4:54:04.52 PM] ======= Build Solution: Summary =======
-[4:54:04.53 PM] 1) Package 'Nominal VeriStand 2024 Client' Build detailed summary
-   Nominal VeriStand 2024 Client   Failed
-   Failed operation                Discover
-   Output directory                C:\code\veristand-client\Built
-   Filename                        nominal-client-veristand2024_1.0.0.21_windows_x64.nipkg
-   Stage directory                 C:\code\veristand-client\Built\Nominal VeriStand 2024 Client
-   Package version                 1.0.0.21
-   Display version                 1.0.0
-   Architecture                    windows_x64
-[4:54:04.53 PM] ======= Build Solution: 0 Succeeded, 1 Failed, 0 Canceled (elapsed time 00:04.02) =======
-[4:54:16.51 PM] Removed input item: C:\code\veristand-client\Built\Nominal Client\Windows\nominal-labview-client.lvlibp
-[4:54:22.10 PM] ======= Build Solution: Started =======
-[4:54:22.10 PM] Nominal VeriStand 2024 Client: Discover started.
-[4:54:22.15 PM] Error -16057: Disconnected files and/or directories found.
-   Package name: Nominal VeriStand 2024 Client   Destination path: [Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Engine Release PPL_depinstr.bin
-   Package name: Nominal VeriStand 2024 Client   Destination path: [Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Linux_x64\Nominal Client Engine Linux64.lvlibp
-   Package name: Nominal VeriStand 2024 Client   Destination path: [Program Files (64-bit)]\National Instruments\VeriStand 2024\Custom Devices\Nominal Client\Windows\nominal-labview-client.lvlibp
-[4:54:22.15 PM] Nominal VeriStand 2024 Client: Discover failed
-[4:54:22.15 PM] ======= Build Solution: Summary =======
-[4:54:22.15 PM] 1) Package 'Nominal VeriStand 2024 Client' Build detailed summary
-   Nominal VeriStand 2024 Client   Failed
-   Failed operation                Discover
-   Output directory                C:\code\veristand-client\Built
-   Filename                        nominal-client-veristand2024_1.0.0.21_windows_x64.nipkg
-   Stage directory                 C:\code\veristand-client\Built\Nominal VeriStand 2024 Client
-   Package version                 1.0.0.21
-   Display version                 1.0.0
-   Architecture                    windows_x64
-[4:54:22.15 PM] ======= Build Solution: 0 Succeeded, 1 Failed, 0 Canceled (elapsed time 00:00.05) =======
-[4:54:47.09 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs
-[4:55:02.14 PM] ======= Build Solution: Started =======
-[4:55:02.14 PM] Nominal VeriStand 2024 Client: Discover started.
-[4:55:02.19 PM] Nominal VeriStand 2024 Client: Discover successful
-[4:55:02.23 PM] Nominal VeriStand 2024 Client: Analyze started.
-[4:55:02.39 PM] Nominal VeriStand 2024 Client: Analyze successful.
-[4:55:02.40 PM] Nominal VeriStand 2024 Client: Clean started.
-[4:55:02.54 PM] Nominal VeriStand 2024 Client: Clean successful.
-[4:55:02.55 PM] Nominal VeriStand 2024 Client: Build Packages started.
-[4:55:06.83 PM] Nominal VeriStand 2024 Client: Build Packages successful.
-[4:55:06.88 PM] ======= Build Solution: Summary =======
-[4:55:06.88 PM] 1) Package 'Nominal VeriStand 2024 Client' Build detailed summary
+[8:29:23.67 PM] ======= Build Solution: Started =======
+[8:29:23.73 PM] Nominal VeriStand 2024 Client: Discover started.
+[8:29:24.09 PM] Discovery found 1 new dependency.
+   Parent: C:\code\veristand-client\Built\Nominal Client\Windows\Page Help   New dependency: C:\code\veristand-client\Built\Nominal Client\Windows\Page Help\Enable Streaming.htm
+[8:29:24.11 PM] Nominal VeriStand 2024 Client: Discover successful
+[8:29:24.15 PM] Nominal VeriStand 2024 Client: Analyze started.
+[8:29:24.31 PM] Nominal VeriStand 2024 Client: Analyze successful.
+[8:29:24.32 PM] Nominal VeriStand 2024 Client: Clean started.
+[8:29:24.56 PM] Nominal VeriStand 2024 Client: Clean successful.
+[8:29:24.58 PM] Nominal VeriStand 2024 Client: Build Packages started.
+[8:29:29.45 PM] Nominal VeriStand 2024 Client: Build Packages successful.
+[8:29:29.55 PM] ======= Build Solution: Summary =======
+[8:29:29.55 PM] 1) Package 'Nominal VeriStand 2024 Client' Build detailed summary
    Nominal VeriStand 2024 Client   Succeeded
    Output directory                C:\code\veristand-client\Built
-   Filename                        nominal-client-veristand2024_1.0.0.21_windows_x64.nipkg
+   Filename                        nominal-client-veristand2024_1.0.0.25_windows_x64.nipkg
    Stage directory                 C:\code\veristand-client\Built\Nominal VeriStand 2024 Client
-   Package version                 1.0.0.21
+   Package version                 1.0.0.25
    Display version                 1.0.0
    Architecture                    windows_x64
-[4:55:06.88 PM] ======= Build Solution: 1 Succeeded, 0 Failed, 0 Canceled (elapsed time 00:04.73) =======
-[4:56:29.00 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs
+[8:29:29.56 PM] ======= Build Solution: 1 Succeeded, 0 Failed, 0 Canceled (elapsed time 00:05.88) =======
+[8:29:44.09 PM] ======= Discover: Started =======
+[8:29:44.23 PM] ======= Discover: Summary =======
+[8:29:44.23 PM] ======= Discover: Complete (elapsed time 00:00.14) =======
+[8:31:00.62 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs
+[8:31:12.61 PM] ======= Discover: Started =======
+[8:31:12.69 PM] ======= Discover: Summary =======
+[8:31:12.69 PM] ======= Discover: Complete (elapsed time 00:00.07) =======
+[8:31:17.11 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs
+[8:31:22.47 PM] ======= Build Solution: Started =======
+[8:31:22.47 PM] Nominal VeriStand 2024 Client: Discover started.
+[8:31:22.55 PM] Nominal VeriStand 2024 Client: Discover successful
+[8:31:22.55 PM] Nominal VeriStand 2024 Client: Analyze started.
+[8:31:22.59 PM] Nominal VeriStand 2024 Client: Analyze successful.
+[8:31:22.59 PM] Nominal VeriStand 2024 Client: Clean started.
+[8:31:22.80 PM] Nominal VeriStand 2024 Client: Clean successful.
+[8:31:22.80 PM] Nominal VeriStand 2024 Client: Build Packages started.
+[8:31:27.10 PM] Nominal VeriStand 2024 Client: Build Packages successful.
+[8:31:27.10 PM] ======= Build Solution: Summary =======
+[8:31:27.10 PM] 1) Package 'Nominal VeriStand 2024 Client' Build detailed summary
+   Nominal VeriStand 2024 Client   Succeeded
+   Output directory                C:\code\veristand-client\Built
+   Filename                        nominal-client-veristand2024_1.0.0.26_windows_x64.nipkg
+   Stage directory                 C:\code\veristand-client\Built\Nominal VeriStand 2024 Client
+   Package version                 1.0.0.26
+   Display version                 1.0.0
+   Architecture                    windows_x64
+[8:31:27.10 PM] ======= Build Solution: 1 Succeeded, 0 Failed, 0 Canceled (elapsed time 00:04.63) =======
+[8:31:35.07 PM] Solution saved: C:\code\veristand-client\source\Nominal VeriStand Client.pbs

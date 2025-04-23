@@ -101,17 +101,17 @@
     
 <Page>
       <Name>
-        <eng>Extra 1</eng>
-        <loc>Extra 1</loc>
+        <eng>Enable Streaming</eng>
+        <loc>Enable Streaming</loc>
       </Name>
       <GUID>298e9326-2f09-4be8-abaa-0ca5aecff365</GUID>
       <Glyph>
 			<Type>To Application Data Dir</Type>
-			<Path>System Explorer\Glyphs\default fpga category.png</Path>
+			<Path>System Explorer\Glyphs\NI-XNET File(Datalogging).png</Path>
 		</Glyph>
       <Item2Launch>
         <Type>To Common Doc Dir</Type>
-		<Path>Custom Devices\Nominal Client\Windows\Nominal Client Configuration.lvlibp\System Explorer\Extra 1.vi</Path>
+		<Path>Custom Devices\Nominal Client\Windows\Nominal Client Configuration.lvlibp\System Explorer\Enable Streaming.vi</Path>
       </Item2Launch>
     </Page>
 <Page>
