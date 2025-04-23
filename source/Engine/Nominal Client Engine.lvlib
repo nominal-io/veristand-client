@@ -21,5 +21,6 @@
 		<Item Name="RTStateVariables.ctl" Type="VI" URL="../RTStateVariables.ctl"/>
 		<Item Name="Streaming Specification.ctl" Type="VI" URL="../Streaming Specification.ctl"/>
 	</Item>
+	<Item Name="memory_stub.vi" Type="VI" URL="../../LabVIEW Client/memory_stub.vi"/>
 	<Item Name="RT Driver VI.vi" Type="VI" URL="../RT Driver VI.vi"/>
 </Library>
